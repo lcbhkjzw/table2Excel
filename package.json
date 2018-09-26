@@ -1,0 +1,25 @@
+{
+  "name": "table2excel",
+  "version": "1.0.0",
+  "description": "在浏览器把表格导出为excel格式",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node_modules/.bin/tsc -p ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lcbhkjzw/table2Excel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lcbhkjzw/table2Excel/issues"
+  },
+  "homepage": "https://github.com/lcbhkjzw/table2Excel#readme",
+  "devDependencies": {
+    "tsc": "^1.20150623.0",
+    "typescript": "^3.0.3"
+  }
+}
